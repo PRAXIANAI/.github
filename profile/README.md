@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="praxian-ai-center.png" alt="PRAXIAN AI Solutions Center" width="460">
+<img src="./assets/praxian-ai-center.png" alt="PRAXIAN AI Solutions Center" width="460">
 
 ### Inteligência humana acelerada pela Inteligência Artificial.
 
