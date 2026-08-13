@@ -2,8 +2,6 @@
 
 <img src="praxian-ai-center.png" alt="PRAXIAN AI Solutions Center" width="460">
 
-# PRAXIAN AI SOLUTIONS CENTER
-
 ### Inteligência humana acelerada pela Inteligência Artificial.
 
 **Ligamos o tradicional ao inovador para transformar conhecimento, processos e tecnologia em soluções de IA aplicáveis ao negócio.**
